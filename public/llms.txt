@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ציפורניים להדבקה בעיצוב אישי שמספרות את הסיפור שלך. בחרי מתוך מגוון עיצובים מדהימים או צרי סט ייחודי משלך — כי היופי שלך, הוא הכי אישי. הזמיני עכשיו!
+
+### עיצוב מותאם אישית
+https://example.com/custom-design
+עצבי ציפורניים להדבקה בדיוק כמו שדמיינת — צבעים, דוגמאות וסגנון שנבחרו רק בשבילך. נייל ארט להדבקה לבני נוער ולכל מי שאוהבת להתבלט. התחילי לעצב היום!
+
+### אודות
+https://example.com/about
+Tamar Nails נולדה מתוך אהבה אמיתית לנייל ארט ולביטוי עצמי. גלי מי עומדת מאחורי הציפורניים המעוצבות להדבקה שכבשו את הרשת, ולמה אלפי לקוחות כבר בחרו בנו.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על ציפורניים להדבקה בעיצוב אישי, רוצה להזמין סט מיוחד או סתם להתייעץ? אנחנו כאן בשבילך — כתבי לנו ונחזור אליך מהר. כי השירות שלנו הוא חלק מהחוויה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Tamar Nails
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Tamar Nails
+
+### Category
+https://example.com/category/:slug
+מוצרים - Tamar Nails
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
